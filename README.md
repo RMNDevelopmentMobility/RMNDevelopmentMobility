@@ -1,10 +1,11 @@
-## Hello, I'm Rodrigo!
- 
-… Mobile Developer => especially on Flutter 📱
+## Greetings! ... I'm Rodrigo and welcome to my space 🌎
 
-Lover of Technology and Coding
+💻 👨🏾‍💻 Lover of Technology and Coding
  
-## About me 
+### About me 
+
+… Mobile Developer => especially on Flutter/Dart 📱
+
 [![Github Badge](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/RMNDevelopmentMobility)](https://github.com/RMNDevelopmentMobility)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigomendesnunes/?locale=en_US)](https://www.linkedin.com/in/rodrigomendesnunes/?locale=en_US)
 
@@ -30,8 +31,7 @@ Lover of Technology and Coding
 <code><img height="20" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></code>
 
 
-- Thanks for visiting. 
- 
+- Thanks for visiting
 - Enjoy it!
 
 
